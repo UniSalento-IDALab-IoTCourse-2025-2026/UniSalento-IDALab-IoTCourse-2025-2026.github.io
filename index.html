@@ -41,7 +41,7 @@ layout: landing
 																<b>Students: {{ project.students }}</b>
 															{% endif %}
 															
-													{% if project.publication != ""%}
+													{% if project.publication and project.publication != ""%}
 																<b>This work was described in a scientific paper: <a href="{{ project.publication }}" class="button alt">Link to the paper
 																</a></b>
 															{% endif %}
