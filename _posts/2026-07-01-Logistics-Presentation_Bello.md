@@ -2,7 +2,7 @@
 title: "ChillChain"
 date: 2026-07-01 08:00:00 +0200
 categories: projects
-img_url: https://github.com/UniSalento-IDALab-IoTCourse-2024-2025/wot-project-2024-2025-presentation-Bello/blob/main/images/immaginePerSito2.png
+img_url: https://github.com/UniSalento-IDALab-IoTCourse-2024-2025/wot-project-2024-2025-presentation-Bello/blob/main/images/immaginePerSito2.png?raw=true
 site_url: "https://unisalento-idalab-iotcourse-2024-2025.github.io/wot-project-2024-2025-presentation-Bello/"
 project_url1: "https://github.com/UniSalento-IDALab-IoTCourse-2024-2025/wot-project-2024-2025-frontend-service-Bello"
 project_url2: "https://github.com/UniSalento-IDALab-IoTCourse-2024-2025/wot-project-2024-2025-spring-backend-service-Bello"

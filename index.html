@@ -38,12 +38,12 @@ layout: landing
 													</header>
 													<p>{{ project.description }}</p>
 													{% if project.students != ""%}
-																<b>Students: {{ project.students }}</b>
+																<p><b>Students: {{ project.students }}</b></p>
 															{% endif %}
 															
 													{% if project.publication and project.publication != ""%}
-																<b>This work was described in a scientific paper: <a href="{{ project.publication }}" class="button alt">Link to the paper
-																</a></b>
+																<p><b>This work was described in a scientific paper: <a href="{{ project.publication }}" class="button alt">Link to the paper
+																</a></b></p>
 															{% endif %}
 													<footer>
 														<div class="project_buttons_container">
