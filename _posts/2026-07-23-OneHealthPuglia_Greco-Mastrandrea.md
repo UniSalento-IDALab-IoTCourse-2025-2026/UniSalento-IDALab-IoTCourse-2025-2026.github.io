@@ -1,8 +1,8 @@
 ---
 title: "OneHealth Puglia"
-date: 2026-07-23 08:00:00 +0200
+date: 2026-07-28 08:00:00 +0200
 categories: projects
-img_url: https://unisalento-idalab-iotcourse-2024-2025.github.io/wot-project-2024-2025-sito-DeDominicis-Miccoli/ready.png
+img_url: https://raw.githubusercontent.com/UniSalento-IDALab-IoTCourse-2025-2026/wot-project-2025-2026-presentation-Greco-Mastrandrea/refs/heads/main/fotoPrototipo.jpeg
 site_url: "https://unisalento-idalab-iotcourse-2025-2026.github.io/wot-project-2025-2026-presentation-Greco-Mastrandrea"
 project_url1: "https://github.com/UniSalento-IDALab-IoTCourse-2025-2026/wot-project-2025-2026-dashboard-Greco-Mastrandrea"
 project_url2: "https://github.com/UniSalento-IDALab-IoTCourse-2025-2026/wot-project-2025-2026-mobile-app-Greco-Mastrandrea"
