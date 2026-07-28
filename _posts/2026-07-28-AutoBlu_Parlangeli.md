@@ -11,6 +11,6 @@ project_url4: "https://github.com/neldubbio/iot-project-2025-2026-MobileApp-Parl
 project_url5: "https://github.com/neldubbio/iot-project-2025-2026-DockerCompose-Parlangeli"
 project_url6: "https://github.com/neldubbio/iot-project-2025-2026-presentation-Parlangeli"
 description: " Autoblu è una piattaforma che consente di monitorare e raccogliere statistiche sulla viabilità urbana. Si tratta di un portale che offre in tempo reale: a) Previsioni sul traffico, b) Segnalazioni su eventuali cantieri, incidenti, manifestazioni, ecc."
-students : "Emanuele Parlangeli"
+students : "Emanuele Antonio Parlangeli"
 publication : ""
 ---
